@@ -590,7 +590,7 @@ figure.effect-goliath:hover p {
   }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 991px) {
   .tm-site-title {
     font-size: 3rem;
   }
@@ -620,7 +620,7 @@ figure.effect-goliath:hover p {
   }
 
   .grid {
-    max-width: 420px;
+    max-width: 640px;
   }
 
   .slick-dots {
